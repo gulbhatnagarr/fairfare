@@ -1,0 +1,39 @@
+.balance-view {
+  background-color: #fff;
+  padding: 25px;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 600px;
+  margin: 2rem auto;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.balance-view h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.balance-view ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.balance-view li {
+  background-color: #f4f4f4;
+  margin-bottom: 10px;
+  padding: 12px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.balance-view span {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  margin-bottom: 15px;
+}
